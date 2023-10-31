@@ -27,7 +27,7 @@ npm install @blend-metrics/icons @blend-metrics/ui
 #### Once, you are done with the above steps.
 
 ```javascript
-// Copy the below config in your tailwind.config.js
+// Copy the below config in your tailwind.config.ts
 import type { Config } from "tailwindcss";
 
 const config: Config = {
