@@ -1,4 +1,4 @@
-## This a guide for getting started with Blend Metrics' UI and icon libraries
+## This is a guide for getting started with Blend Metrics' UI and icon libraries
 
 ### We are using Typescript and Next.js, so we require you to use both.
 
